@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(17, 16, 16);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+div{
+    height: 120px;
+    width: 100px;
+}
+#div1{
+    background-color: rgb(165, 81, 81);
+    margin-left: 420px;
+}
+#div2{
+    margin-left: 531px;
+    margin-top: -120px;
+    background-color: rgb(68, 87, 47);
+}
+#div3{
+    margin-left: 641px;
+    margin-top: -120px;
+    background-color: rgb(76, 170, 104);
+}
+#div4{
+    margin-left: 751px;
+    margin-top: -120px;
+    background-color: rgb(99, 240, 94);
+}
+#div5{
+    margin-left: 861px;
+    margin-top: -120px;
+    background-color: rgb(194, 184, 184);
+}
+#div6{
+    margin-left: 309px;
+    margin-top: 40px;
+    background-color: rgb(250, 75, 6);
+}
+#div7{
+    margin-left: 420px;
+    margin-top: -121px;
+    background-color: rgb(241, 120, 120);
+}
+#div8{
+    margin-left: 531px;
+    margin-top: -121px;
+    background-color: rgb(238, 132, 206);
+}
+#div9{
+    margin-left: 641px;
+    margin-top: -121px;
+    background-color: rgb(199, 87, 209);
+}
+#div10{
+    margin-left: 751px;
+    margin-top: -121px;
+    background-color: rgb(90, 51, 233);
+}
+#div11{
+    margin-left: 861px;
+    margin-top: -121px;
+    background-color: rgb(197, 111, 236);
+}
+#div12{
+    margin-left: 971px;
+    margin-top: -121px;
+    background-color: rgb(71, 68, 71);
+}#div13{
+    margin-left: 189px;
+    margin-top: 38px;
+    background-color: rgb(78, 214, 248);
+}
+#div14{
+    margin-left: 309px;
+    margin-top: -118px;
+    background-color: rgb(251, 252, 252);
+}
+#div15{
+    margin-left: 420px;
+    margin-top: -118px;
+    background-color: rgb(243, 198, 147);
+}
+#div16{
+    margin-left: 531px;
+    margin-top: -120px;
+    background-color: rgb(240, 65, 109);
+}
+#div17{
+    margin-left: 641px;
+    margin-top: -120px;
+    background-color: rgb(54, 15, 54);
+}
+#div18{
+    margin-left: 753px;
+    margin-top: -120px;
+    background-color: rgb(19, 186, 216);
+}
+#div19{
+    margin-left: 865px;
+    margin-top: -120px;
+    background-color: rgb(71, 160, 148);
+}
+#div20{
+    margin-left: 979px;
+    margin-top: -120px;
+    background-color: rgb(141, 111, 141);
+}
+
+#div21{
+    margin-left: 1093px;
+    margin-top: -120px;
+    background-color: rgb(54, 29, 54);
+}
